@@ -31,7 +31,7 @@ Our project focuses on creating and interacting with different subsets within th
 - **WebAssembly (WASM)**: We leverage WASM for smart contract execution, providing flexibility and compatibility with multiple programming languages.
 
 
-![image](https://github.com/Amarnath-Rao/IPCPay/assets/96937608/541b4876-c516-49b3-82ad-be017ad8bf7c)
+(https://github.com/theincubators/ipcpay-sdk)
 
 
 ## IPC Subnet - Creating and Demonstration
